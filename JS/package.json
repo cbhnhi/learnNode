@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "benjamin learning node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbhnhi/learnNode.git"
+  },
+  "author": "Benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbhnhi/learnNode/issues"
+  },
+  "homepage": "https://github.com/cbhnhi/learnNode#readme",
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  }
+}
